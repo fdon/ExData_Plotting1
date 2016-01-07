@@ -1,3 +1,16 @@
+## Exploratory Data Analysis - Course Project 1
+
+This repository contains
+* 4 R scripts: plot1.R, plot2.R, plot3.R and plot4.R
+* 4 PNG files: plot1.png, plot2.png, plot3.png and plot4.png
+Executing all steps of a plot.R will construct the corresponding png file
+
+In order to run these R scripts and check that they work, you could for instance clone this repository under the ExData course directory on your computer. It is assumed that your course directory also contains a sub-directory called "data" in which there is a file called "household_power_consumption.txt".
+
+Please note that the weekdays that appear in plots 2-4 are in French (the language of the OS installed on my computer). Even though my RStudio was installed in English, it still uses the French terms when extracting the weekday from a Date. So instead of "Thu    Fri    Sat", I get "Jeu.    Ven.     Sam." If your machine's default language is English, the plots should be generated with English weekdays.
+
+Below is the content of the original README.md.
+
 ## Introduction
 
 This assignment uses data from
