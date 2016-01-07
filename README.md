@@ -3,7 +3,8 @@
 This repository contains
 * 4 R scripts: plot1.R, plot2.R, plot3.R and plot4.R
 * 4 PNG files: plot1.png, plot2.png, plot3.png and plot4.png
-Executing all steps of a plot.R will construct the corresponding png file
+
+Executing all steps of a plot.R file will construct the corresponding .PNG file
 
 In order to run these R scripts and check that they work, you could for instance clone this repository under the ExData course directory on your computer. It is assumed that your course directory also contains a sub-directory called "data" in which there is a file called "household_power_consumption.txt".
 
